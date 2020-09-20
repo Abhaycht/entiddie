@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<!--
-**rxju/rxju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-   • Working on Kira, a multi-purpose Discord bot 
+###   • Working on Kira, a multi-purpose Discord bot 
 
-Socials
+### Socials
 
-💎 Twitter 💎
+### 💎 Twitter 💎
 
-https://twitter.com/rxju_
+### https://twitter.com/rxju_
 
 
 
-👍 Discord 👍
+### 👍 Discord 👍
 
-oTube#0001
+### oTube#0001
