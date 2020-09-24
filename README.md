@@ -2,6 +2,7 @@
 
 
 ###   • Working on Kira, a multi-purpose Discord bot 
+###   • Working on Professor Simplified 
 
 ### Socials
 
