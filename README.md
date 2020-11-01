@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-###   • Working on Kira, a multi-purpose Discord bot 
+###   • Working on 93
 ###   • Working on Professor Simplified 
 
 ### Socials
