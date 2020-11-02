@@ -16,4 +16,5 @@
 
 ### oTube#0001
 
-![main2](https://user-images.githubusercontent.com/65078619/94346495-9f973980-004a-11eb-9f92-68196c840fa2.png)
+![93poster](https://user-images.githubusercontent.com/65078619/97866180-721c6a80-1d31-11eb-90b9-8fa2a25752a1.png)
+
