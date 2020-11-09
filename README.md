@@ -14,7 +14,6 @@
 
 ### 🌠 Discord 🌠
 
-### oTube#0001
+### ive#0001
 
-![93poster](https://user-images.githubusercontent.com/65078619/97866180-721c6a80-1d31-11eb-90b9-8fa2a25752a1.png)
-
+[![ive's github stats](https://github-readme-stats.vercel.app/api?username=entiddie)](https://github.com/anuraghazra/github-readme-stats)
