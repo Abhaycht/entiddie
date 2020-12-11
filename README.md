@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-###   • Working on 93 (Multi-functional bot with some nice commands)
-###   • Working on Professor Simplified (Bot for the OverSimplified Discord Server)
+### Hey there 👋
 
 ### Socials
 
