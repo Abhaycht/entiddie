@@ -8,8 +8,8 @@
 * Backend programming
 
 💻 What I am working on:
-* 93 Discord bot
-* AnyDo
+* 93
+* Mika
 
 📚 What am I learning?:
 * General C# Programming
