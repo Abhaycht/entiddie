@@ -19,3 +19,5 @@
 
 * Twitter: https://twitter.com/sadivyy
 * Discord: ive#0001
+
+![](https://github-readme-stats.vercel.app/api?username=entiddie&theme=tokyonight&show_icons=true)
