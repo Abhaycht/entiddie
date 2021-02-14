@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm ivy</h1>
-
 - 🔭 I’m currently working on [Ninethree](https://github.com/AizorStudio/93)
 
 
